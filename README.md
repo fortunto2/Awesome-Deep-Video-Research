@@ -24,8 +24,15 @@
 * Scanner: Efficient Video Analysis at Scale: https://github.com/scanner-research/scanner
 * Kitware Image and Video Exploitation and Retrieval: https://github.com/Kitware/kwiver
 * A distributed visual search and visual data analytics platform: https://github.com/AKSHAYUBHAT/DeepVideoAnalytics
+* VGG Image Search Engine (VISE): http://www.robots.ox.ac.uk/~vgg/software/vise/
 
 ## API
 
 * AWS Video Frame-based Analysis: https://github.com/awslabs/video-frame-based-analysis
 * Microsoft https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis
+
+## Dataset Tagging GUI
+
+* Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. https://github.com/Microsoft/VoTT
+
+*
