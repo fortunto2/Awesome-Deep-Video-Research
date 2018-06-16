@@ -24,3 +24,7 @@
 * Scanner: Efficient Video Analysis at Scale: https://github.com/scanner-research/scanner
 * Kitware Image and Video Exploitation and Retrieval: https://github.com/Kitware/kwiver
 * A distributed visual search and visual data analytics platform: https://github.com/AKSHAYUBHAT/DeepVideoAnalytics
+
+## API
+
+* AWS Video Frame-based Analysis: https://github.com/awslabs/video-frame-based-analysis
