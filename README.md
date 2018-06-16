@@ -28,3 +28,4 @@
 ## API
 
 * AWS Video Frame-based Analysis: https://github.com/awslabs/video-frame-based-analysis
+* Microsoft https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis
