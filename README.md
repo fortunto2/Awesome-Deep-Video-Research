@@ -23,6 +23,7 @@
 
 * Vireo is a lightweight and versatile video processing library written in C++11: https://github.com/twitter/vireo
 * Scanner: Efficient Video Analysis at Scale: https://github.com/scanner-research/scanner
+* Esper from Scannser: https://github.com/scanner-research/esper
 * Kitware Image and Video Exploitation and Retrieval: https://github.com/Kitware/kwiver
 * A distributed visual search and visual data analytics platform: https://github.com/AKSHAYUBHAT/DeepVideoAnalytics
 * VGG Image Search Engine (VISE): http://www.robots.ox.ac.uk/~vgg/software/vise/
