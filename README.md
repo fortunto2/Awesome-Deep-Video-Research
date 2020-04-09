@@ -37,4 +37,4 @@
 
 * Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. https://github.com/Microsoft/VoTT
 
-*
+* Universal Data Tool: Collaborate & label video and images in an easy web interface or desktop app. https://github.com/UniversalDataTool/universal-data-tool
